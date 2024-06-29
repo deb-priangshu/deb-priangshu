@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I am **Priangshu Deb**, a tech enthusasist, reading in class 12 in St Joseph Higher Secondary School.
+I am **Priangshu Deb**, a tech enthusiast, reading in class 12 in St Joseph Higher Secondary School.
 
 - 🔭 I’m currently working on []
 - 🌱 I’m currently learning Javascript, html, C
